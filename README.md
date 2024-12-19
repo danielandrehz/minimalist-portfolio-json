@@ -30,7 +30,7 @@ Basado en el diseño de <a href="https://github.com/BartoszJarocki/cv">Bartosz J
         Licencia
     </a>
     <span>&nbsp;✦&nbsp;</span>
-    <a href="https://midu.dev">
+    <a href="https://danielhernandez.co">
         Personal
     </a>
    
